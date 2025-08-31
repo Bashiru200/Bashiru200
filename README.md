@@ -58,9 +58,9 @@ I love working on:
 
 ### 📫 How to Reach Me
 
-📧 Email: [your.email@example.com]  
-💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+📧 Email: bashirubarrie12@gmail.com 
+💼 LinkedIn: [https://t.co/UBxUy9NmDX ](https://www.linkedin.com/in/bashirubarrie)
+
 
 ---
 
@@ -76,22 +76,5 @@ Don’t hesitate to reach out!
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="Profile Views"/>
+src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
-## Hi there 👋
-
-<!--
-**Bashiru200/Bashiru200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
