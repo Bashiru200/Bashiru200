@@ -18,18 +18,14 @@
 
 ### 🔭 I’m Currently Working On
 
-- 💻 Deepening my skills in [insert tech stack/languages you're currently learning].
-- 🌐 Contributing to open-source projects to improve collaboration and code quality.
-- 🚀 Building [insert your project ideas — e.g., full-stack web apps, APIs, mobile apps].
-
+- 💻 Deepening my skills in python webframe-works, Frontend tools and their frameworks and databases
 ---
 
 ### 💡 Projects I'm Passionate About
 
 I love working on:
 
-- 🧠 AI/ML or data-driven applications
-- 🌍 Tech-for-good projects (education, health, community)
+- 🌍 Tech-for-good projects 
 - ⚙️ Developer tools and automation
 - 📱 Scalable, user-friendly mobile or web platforms
 
