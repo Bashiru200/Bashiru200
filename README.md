@@ -68,7 +68,6 @@ I love working on:
 
 I'm always excited to connect with other learners, developers, and creators! If you're interested in:
 
-- Working on open-source projects  
 - Mentorship or learning partnerships  
 - Exploring internship opportunities  
 - Pair programming or tech meetups  
